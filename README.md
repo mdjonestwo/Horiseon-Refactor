@@ -2,7 +2,7 @@
 https://mdjonestwo.github.io/Horiseon-Refactor/
 
 ## Screenshot 
-
+![ScreenShot](./Screen-Shot-of-Website.png)
 
 # 01 HTML CSS Git: Code Refactor
 
